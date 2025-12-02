@@ -5,7 +5,7 @@
 Ứng dụng quản lý chi tiêu cá nhân hiện đại với **3 tính năng AI đột phá** được tích hợp bởi **Google Gemini 2.5 Flash**, giúp việc quản lý tài chính trở nên dễ dàng và thông minh hơn bao giờ hết.
 
 <div align="center">
-  <img src="Screenshot 2025-12-02 235437.png" alt="Dashboard Chính - Giao Diện Quản Lý Chi Tiêu" width="750"/>
+  <img src="AI-POWERED FINANCE ASSISTANT/Screenshot 2025-12-02 235437.png" alt="Dashboard Chính - Giao Diện Quản Lý Chi Tiêu" width="750"/>
   <p><i>📊 Giao diện dashboard chính với biểu đồ trực quan và quản lý giao dịch</i></p>
 </div>
 
@@ -41,7 +41,7 @@ Trợ lý AI thông minh hiểu ngữ cảnh, phân tích dữ liệu chi tiêu 
 ```
 
 <div align="center">
-  <img src="Screenshot 2025-12-02 235645.png" alt="AI ChatBot Tư Vấn Tài Chính" width="700"/>
+  <img src="AI-POWERED FINANCE ASSISTANT/Screenshot 2025-12-02 235645.png" alt="AI ChatBot Tư Vấn Tài Chính" width="700"/>
   <p><i>🤖 AI ChatBot phân tích chi tiêu và đưa ra lời khuyên thông minh</i></p>
 </div>
 
@@ -84,7 +84,7 @@ Trợ lý AI thông minh hiểu ngữ cảnh, phân tích dữ liệu chi tiêu 
 ```
 
 <div align="center">
-  <img src="Screenshot 2025-12-02 235608.png" alt="AI Auto Input - Nhập Liệu Bằng Chat" width="700"/>
+  <img src="AI-POWERED FINANCE ASSISTANT/Screenshot 2025-12-02 235608.png" alt="AI Auto Input - Nhập Liệu Bằng Chat" width="700"/>
   <p><i>💬 Nhập giao dịch chỉ bằng cách chat tự nhiên - AI tự động hiểu và xử lý</i></p>
 </div>
 
@@ -116,7 +116,7 @@ Trợ lý AI thông minh hiểu ngữ cảnh, phân tích dữ liệu chi tiêu 
 ```
 
 <div align="center">
-  <img src="Screenshot 2025-12-02 235846.png" alt="AI Receipt OCR - Quét Hóa Đơn Tự Động" width="700"/>
+  <img src="AI-POWERED FINANCE ASSISTANT/Screenshot 2025-12-02 235846.png" alt="AI Receipt OCR - Quét Hóa Đơn Tự Động" width="700"/>
   <p><i>📸 AI Vision đọc và trích xuất thông tin từ hóa đơn tự động với độ chính xác cao</i></p>
 </div>
 
