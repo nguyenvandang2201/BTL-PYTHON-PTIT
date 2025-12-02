@@ -1,0 +1,8 @@
+matplotlib==3.7.1
+reportlab==4.0.7
+google-generativeai>=0.3.0
+pillow>=10.0.0
+requests>=2.31.0
+
+
+
